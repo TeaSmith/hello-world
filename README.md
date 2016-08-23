@@ -1,2 +1,6 @@
 # hello-world
-my_repo
+
+Hi All,
+
+My name is Tea and I am excited to be part of OMSCS community.
+
